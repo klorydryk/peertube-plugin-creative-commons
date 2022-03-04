@@ -17,7 +17,7 @@ async function register ({
   videoLicenceManager.addConstant(4, 'CC BY-NC 4.0')
   videoLicenceManager.addConstant(5, 'CC BY-NC-SA 4.0')
   videoLicenceManager.addConstant(6, 'CC BY-NC-ND 4.0')
-  videoLicenceManager.addConstant(8, 'Public Domain Mark 1.0')
+  videoLicenceManager.addConstant(7, 'Public Domain Mark 1.0')
 
 }
 
